@@ -1,0 +1,18 @@
+pkg install update && pkg upgrade
+
+pkg install python
+
+pkg install python3
+
+pkg install git
+
+git clone
+https://github.com/kZtotorial/Spam-smsV2
+
+ls
+
+cd Spam-smsV2
+
+ls
+
+python3 enc_sc.py
